@@ -19,3 +19,6 @@ Chat Image Inserter 是一款为 SillyTavern（酒馆）设计的轻量级扩展
 存储管理：实时显示已缓存图片的数量与占用空间，一键清除全部图片（规则保留，只需重新上传）。
 
 主题跟随：界面配色全部使用酒馆主题变量，深色/浅色自动适配。
+
+
+Chat Image Inserter is a lightweight extension for SillyTavern that makes text in roleplay conversations automatically "grow" images. When the AI's output contains a keyword or regex pattern you've defined, the plugin seamlessly inserts the corresponding local image right below the matched text 
