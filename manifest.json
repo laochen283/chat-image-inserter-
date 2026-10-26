@@ -1,0 +1,10 @@
+{
+  "display_name": "Chat Image Inserter",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "牢橙",
+  "version": "1.5.0",
+  "homePage": ""
+}
